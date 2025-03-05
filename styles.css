@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+.container {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.element {
+    margin: 5px;
+    padding: 5px;
+}
